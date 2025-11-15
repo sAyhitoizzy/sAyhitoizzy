@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm İzem</h1>
-<h3 align="center">Computer Engineering Student @ TED Üniversity</h3>
+<h1 align="center">Hi 👋, I'm Izem</h1>
+<h3 align="center">Computer Engineering Student @ TED University</h3>
 
 - 🔭 Studying computer engineering; **working on web dev & cybersecurity side projects**
 
